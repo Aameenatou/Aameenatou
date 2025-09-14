@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aameenatou
-- 👀 I’m interested in web design,AI,blogging and video editing
+- 👀 I’m interested in web design,AI, Graphic design and video editing
 - 🌱 I’m currently learning frontend engineering
 - 💞️ I’m looking to collaborate on other learning stuffs
 - 📫 email @aminumar699@gmail.com
